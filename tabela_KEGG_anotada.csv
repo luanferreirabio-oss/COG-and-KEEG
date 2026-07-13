@@ -1,0 +1,58 @@
+KO,rho,p,Descricao,Direcao
+K00074,1.0,0.0,BHBD: 3-hydroxybutyryl-CoA dehydrogenase (C cycling),+
+K05587,-1.0,0.0,Nitrogenase accessory protein NifQ (N cycling),−
+K06929,1.0,0.0,Outer membrane protein (stress response),+
+K15371,1.0,0.0,ABC transporter substrate-binding (nutrient uptake),+
+K13542,-1.0,0.0,Cytochrome P450 (organic compound oxidation),−
+K05816,0.943,0.0048,FepA: ferric enterobactin receptor (Fe acquisition),+
+K14048,-0.943,0.0048,Putrescine importer PuuP (polyamine transport),−
+K04773,-0.943,0.0048,DNA mismatch repair MutL,−
+K07516,0.943,0.0048,Universal stress protein UspA,+
+K00294,-0.943,0.0048,3-phosphoglycerate dehydrogenase (amino acid biosyn),−
+K07118,0.943,0.0048,—,+
+K02227,0.943,0.0048,Cobalamin biosynthesis CobI,+
+K07053,-0.943,0.0048,Putative regulatory protein,−
+K03559,-0.943,0.0048,Dicarboxylate/amino acid transporter,−
+K02193,-0.943,0.0048,Cytochrome c oxidase assembly CtaG (aerobic resp),−
+K01433,-0.943,0.0048,Allophanate hydrolase subunit 2 (N cycling/urea),−
+K11690,0.943,0.0048,Phosphate ABC transporter (P cycling),+
+K07714,-0.943,0.0048,Signal transduction histidine kinase,−
+K06987,0.943,0.0048,Putative membrane protein,+
+K00995,-0.943,0.0048,—,−
+K03337,-0.943,0.0048,—,−
+K07124,0.943,0.0048,—,+
+K05847,-0.943,0.0048,—,−
+K01461,-0.941,0.0051,—,−
+K17266,-0.941,0.0051,—,−
+K01432,0.941,0.0051,Allophanate hydrolase subunit (N cycling/urea),+
+K02440,-0.886,0.0188,—,−
+K07074,-0.886,0.0188,—,−
+K00979,-0.886,0.0188,—,−
+K02427,0.886,0.0188,General secretion pathway GspG,+
+K14733,0.886,0.0188,—,+
+K14761,-0.886,0.0188,—,−
+K02385,-0.886,0.0188,—,−
+K01657,-0.886,0.0188,—,−
+K18827,-0.886,0.0188,—,−
+K01849,-0.886,0.0188,—,−
+K21481,-0.886,0.0188,—,−
+K00452,-0.886,0.0188,—,−
+K00122,0.886,0.0188,—,+
+K18682,-0.886,0.0188,—,−
+K05375,0.886,0.0188,—,+
+K06152,0.886,0.0188,—,+
+K00210,0.886,0.0188,—,+
+K01704,0.886,0.0188,—,+
+K01338,0.886,0.0188,—,+
+K07407,0.886,0.0188,—,+
+K03478,-0.886,0.0188,—,−
+K12957,0.886,0.0188,—,+
+K07089,-0.886,0.0188,—,−
+K07712,0.886,0.0188,—,+
+K02054,-0.886,0.0188,—,−
+K20036,0.886,0.0188,—,+
+K02049,0.886,0.0188,—,+
+K03797,0.886,0.0188,—,+
+K06952,0.886,0.0188,—,+
+K03381,-0.886,0.0188,—,−
+K13775,-0.886,0.0188,—,−

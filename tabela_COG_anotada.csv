@@ -1,0 +1,56 @@
+COG,rho,p,Descricao,Direcao
+COG0201,-1.0,0.0,RNA polymerase sigma factor RpoH (heat/stress response),−
+COG2373,0.986,0.0003,Predicted metal-sulfur cluster biosynthesis (Fe-S),+
+COG3145,-0.986,0.0003,Outer membrane receptor for Fe transport,−
+COG3288,0.943,0.0048,Glycosyl hydrolase (C degradation),+
+COG0288,0.943,0.0048,Ribosomal protein L28 (translation),+
+COG2199,0.943,0.0048,AraC-type transcriptional regulator (C metabolism),+
+COG2043,0.943,0.0048,Predicted NAD/FAD-dependent oxidoreductase,+
+COG0268,0.943,0.0048,Ribosomal protein S15 (translation),+
+COG0367,0.943,0.0048,Inorganic pyrophosphatase (P cycling),+
+COG4692,-0.943,0.0048,Predicted outer membrane protein,−
+COG3745,0.943,0.0048,ABC-type phosphate transport system,+
+COG1004,-0.943,0.0048,Thioredoxin-like protein (redox homeostasis),−
+COG5605,0.943,0.0048,Predicted glycosyl transferase (cell wall),+
+COG0743,-0.943,0.0048,Signal transduction histidine kinase,−
+COG1454,-0.943,0.0048,"Laccase/multicopper oxidase (Cu, lignin oxidation)",−
+COG0353,-0.943,0.0048,Pantothenate kinase (CoA biosynthesis),−
+COG1496,-0.943,0.0048,"Transcriptional regulator, LysR family",−
+COG1488,-0.943,0.0048,"ATPase, AAA+ superfamily",−
+COG1262,0.943,0.0048,Ribosomal protein S2,+
+COG1252,-0.943,0.0048,ABC-type amino acid transport system,−
+COG3225,0.941,0.0051,—,+
+COG1922,-0.941,0.0051,—,−
+COG3954,0.941,0.0051,—,+
+COG2273,-0.928,0.0077,—,−
+COG1552,-0.928,0.0077,—,−
+COG2920,-0.928,0.0077,—,−
+COG4096,-0.928,0.0077,—,−
+COG3608,0.899,0.0149,—,+
+COG0637,-0.886,0.0188,—,−
+COG0753,-0.886,0.0188,—,−
+COG1257,-0.886,0.0188,—,−
+COG1117,-0.886,0.0188,—,−
+COG1066,-0.886,0.0188,—,−
+COG1122,-0.886,0.0188,—,−
+COG2518,0.886,0.0188,—,+
+COG3718,-0.886,0.0188,—,−
+COG0081,-0.886,0.0188,—,−
+COG0571,-0.886,0.0188,—,−
+COG0516,-0.886,0.0188,—,−
+COG4964,0.886,0.0188,—,+
+COG0476,-0.886,0.0188,—,−
+COG4313,0.886,0.0188,—,+
+COG3653,0.886,0.0188,—,+
+COG0575,-0.886,0.0188,—,−
+COG0601,0.886,0.0188,—,+
+COG3328,0.886,0.0188,—,+
+COG2020,0.886,0.0188,—,+
+COG0396,-0.886,0.0188,—,−
+COG1313,-0.886,0.0188,—,−
+COG0199,0.886,0.0188,—,+
+COG0131,-0.886,0.0188,—,−
+COG0148,-0.886,0.0188,—,−
+COG0582,0.886,0.0188,—,+
+COG2501,-0.886,0.0188,—,−
+COG0587,-0.886,0.0188,—,−
