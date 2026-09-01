@@ -1,0 +1,13 @@
+Depth,Var,Metric,rho,p_exact,Sig
+0-10 cm,Ca,Total (kg/yr),0.943,0.0167,*
+0-10 cm,Ca,Per tree (kg/tree),0.638,0.1944,ns
+0-10 cm,Mg,Total (kg/yr),0.886,0.0333,*
+0-10 cm,Mg,Per tree (kg/tree),0.493,0.3333,ns
+10-20 cm,Ca,Total (kg/yr),0.771,0.1028,ns
+10-20 cm,Ca,Per tree (kg/tree),0.29,0.6,ns
+10-20 cm,Mg,Total (kg/yr),0.486,0.3556,ns
+10-20 cm,Mg,Per tree (kg/tree),-0.058,0.9333,ns
+0-20 cm (mean),Ca,Total (kg/yr),0.943,0.0167,*
+0-20 cm (mean),Ca,Per tree (kg/tree),0.638,0.1944,ns
+0-20 cm (mean),Mg,Total (kg/yr),0.886,0.0333,*
+0-20 cm (mean),Mg,Per tree (kg/tree),0.493,0.3333,ns

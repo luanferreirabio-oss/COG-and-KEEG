@@ -1,0 +1,39 @@
+COG REFERENCE TABLES — PROVENANCE
+=================================
+
+Files
+-----
+cog-24.def.tab   5,050 COGs. Columns: 1 COG ID | 2 functional category letter(s), in
+                 order of importance | 3 COG name | 4 gene name | 5 metabolic pathway |
+                 6 PubMed ID | 7 PDB ID
+
+cog-24.fun.tab   25 functional categories. Columns: 1 category letter | 2 functional
+                 group (1-4) | 3 RGB hex colour | 4 category description
+
+Source
+------
+COG-2024 release of the Clusters of Orthologous Genes database, NCBI.
+
+    https://ftp.ncbi.nih.gov/pub/COG/COG2024/data/cog-24.def.tab
+    https://ftp.ncbi.nih.gov/pub/COG/COG2024/data/cog-24.fun.tab
+    https://ftp.ncbi.nih.gov/pub/COG/COG2024/data/Readme.COG2024.txt
+
+Access date: 25 August 2026.
+
+Citation
+--------
+GALPERIN, M. Y., VERA ALVAREZ, R., KARAMYCHEVA, S., MAKAROVA, K. S., WOLF, Y. I.,
+LANDSMAN, D., KOONIN, E. V., 2025. COG database update 2024. Nucleic Acids Research,
+vol. 53, no. D1, pp. D356-D363. https://doi.org/10.1093/nar/gkae983
+
+License
+-------
+COG data are produced by the NCBI / National Library of Medicine / National Institutes
+of Health and are in the public domain in the United States, as works of United States
+federal government employees.
+
+Warning
+-------
+The COG database receives continuous updates within a release. Re-downloading these
+tables at a later date may yield marginally different annotations. The access date is
+therefore part of the provenance of the result and is stated in the Methods.

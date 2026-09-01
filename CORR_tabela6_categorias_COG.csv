@@ -1,0 +1,26 @@
+Letter,Description,mean_CPM,mean_percent,rho,p_exact,q_BH
+J,"Translation, ribosomal structure and biogenesis",595.7,14.28,-0.714,0.136,0.622
+E,Amino acid transport and metabolism,449.6,10.8,-0.429,0.419,0.622
+C,Energy production and conversion,435.6,10.45,-0.486,0.356,0.622
+K,Transcription,250.4,6.01,-0.371,0.497,0.622
+O,"Posttranslational modification, protein turnover, chaperones",237.6,5.71,-0.486,0.356,0.622
+I,Lipid transport and metabolism,236.6,5.68,-0.6,0.242,0.622
+H,Coenzyme transport and metabolism,223.7,5.35,-0.486,0.356,0.622
+G,Carbohydrate transport and metabolism,197.9,4.75,-0.714,0.136,0.622
+T,Signal transduction mechanisms,191.6,4.6,-0.486,0.356,0.622
+L,"Replication, recombination and repair",177.9,4.27,-0.314,0.564,0.671
+M,Cell wall/membrane/envelope biogenesis,167.8,4.03,-0.714,0.136,0.622
+P,Inorganic ion transport and metabolism,159.3,3.84,0.143,0.803,0.803
+X,"Mobilome: prophages, transposons",157.0,3.82,0.6,0.242,0.622
+F,Nucleotide transport and metabolism,155.7,3.73,-0.543,0.297,0.622
+R,General function prediction only,155.0,3.72,-0.486,0.356,0.622
+V,Defense mechanisms,75.8,1.82,-0.143,0.803,0.803
+Q,"Secondary metabolites biosynthesis, transport and catabolism",65.8,1.59,-0.257,0.658,0.748
+S,Function unknown,63.3,1.53,0.371,0.497,0.622
+D,"Cell cycle control, cell division, chromosome partitioning",63.1,1.51,-0.714,0.136,0.622
+U,"Intracellular trafficking, secretion, vesicular transport",33.7,0.81,-0.429,0.419,0.622
+N,Cell motility,30.2,0.72,-0.143,0.803,0.803
+B,Chromatin structure and dynamics,17.8,0.43,-0.371,0.497,0.622
+A,RNA processing and modification,12.5,0.3,-0.371,0.497,0.622
+W,Extracellular structures,9.6,0.23,0.657,0.175,0.622
+Z,Cytoskeleton,1.4,0.03,-0.543,0.297,0.622

@@ -1,0 +1,7 @@
+Island,Name,Production_kg_yr,System,Trees,kg_per_tree,Management
+P1,Santana,2000,AFS,6000,0.333,Clearing + pruning
+P2,Santaninha,600,AFS,13500,0.044,Clearing
+P3,Angapijó,450,AFS,12000,0.038,Clearing
+P4,Conceição,1035,AFS,13600,0.076,Clearing
+P5,São Joaquim,1000,AFS,3000,0.333,Clearing
+P6,Tauaré,1500,AFS,3000,0.5,Pruning + shading
